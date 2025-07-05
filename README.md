@@ -51,7 +51,9 @@ Our system assesses knowledge levels, identifies learning gaps, generates daily/
 - Schedule triggers, API calls, dynamic routing of logic  
 
 **n8n Router**
-- Routes requests dynamically based on grade level, subject, and detected gaps  
+- Routes requests dynamically based on grade level, subject, and detected gaps
+  ![n8n rag model](https://github.com/user-attachments/assets/6af2de65-bf7e-47ce-bec5-700085fba2fc)
+
 
 **OpenAI GPT (LLM)**
 - Adaptive questioning  
