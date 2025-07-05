@@ -1,0 +1,617 @@
+Maths
+
+## Grade 1
+
+### Shapes and Space
+
+* Recognize 2D shapes (circle, square, triangle, rectangle)
+* Understand spatial relationships (inside, outside, near, far)
+
+### Numbers from 1 to 9
+
+* Counting objects
+* Reading and writing numbers
+* Comparing numbers (greater, smaller)
+
+### Addition
+
+* Combining groups of objects
+* Picture-based addition
+
+### Subtraction
+
+* Taking away objects
+* Picture-based subtraction
+
+### Numbers from 10 to 20
+
+* Place value: tens and ones
+* Count and write numbers 10–20
+
+### Time
+
+* Identify morning, afternoon, night
+* Daily routine sequence
+
+### Measurement
+
+* Compare length: longer, shorter
+* Compare weight: heavier, lighter
+
+### Numbers from 21 to 99
+
+* Number patterns
+* Place value (tens and ones)
+
+### Money
+
+* Recognize coins and notes
+* Identify different denominations
+
+### Data Handling
+
+* Sort objects
+* Classify by colour, shape, size
+
+---
+
+## Grade 2
+
+### Shapes and Faces
+
+* Identify 2D and 3D shapes
+* Faces, edges, corners
+
+### Numbers up to 1000
+
+* Place value (hundreds, tens, ones)
+* Number comparison and ordering
+
+### Addition and Subtraction
+
+* 2- and 3-digit numbers
+* With and without regrouping
+
+### Multiplication
+
+* Repeated addition
+* Early tables: 2, 3, 5, 10
+
+### Division
+
+* Concept of sharing
+* Grouping equally
+
+### Measurement
+
+* Length, weight, capacity using standard units
+* Compare objects
+
+### Time
+
+* Reading clock (hour, half-hour)
+* Calendar basics
+
+### Money
+
+* Count and add notes, coins
+* Make amounts
+
+### Data Handling
+
+* Collect and represent data using pictures
+
+### Patterns
+
+* Identify and create patterns (shapes, numbers)
+
+---
+
+## Grade 3
+
+### Shapes and Designs
+
+* Plane and solid shapes
+* Lines, corners, faces
+
+### Numbers up to 10,000
+
+* Place value
+* Expanded form, comparison
+
+### Addition and Subtraction
+
+* 3-4 digit numbers
+* Word problems
+
+### Multiplication
+
+* Tables up to 10
+* Multiply 2-3 digit numbers
+
+### Division
+
+* Grouping and sharing equally
+* Divide 2-3 digit numbers by 1 digit
+
+### Fractions
+
+* One-half, one-third, one-fourth
+* Equal parts of whole
+
+### Measurement
+
+* Length, weight, capacity
+* Use rulers, scales
+
+### Time
+
+* Clock (5-minute intervals)
+* Calendar, time sequence
+
+### Money
+
+* Bills, coins
+* Simple transactions
+
+### Data Handling
+
+* Tally marks
+* Bar graphs (simple)
+
+### Patterns
+
+* Number and shape patterns
+
+---
+
+## Grade 4
+
+### Large Numbers
+
+* Up to 1 lakh
+* Place value, expanded form
+
+### Addition and Subtraction
+
+* Large numbers
+* Word problems
+
+### Multiplication
+
+* Multiply 2-3 digit numbers by 1-2 digit numbers
+
+### Division
+
+* Divide 3-4 digit numbers by 1-2 digit numbers
+
+### Factors and Multiples
+
+* Find factors, multiples
+* Introduction to primes and composites
+
+### Fractions
+
+* Equivalent fractions
+* Add, subtract like fractions
+
+### Decimals
+
+* Tenths, hundredths
+* Simple operations
+
+### Geometry
+
+* Angles (right, acute, obtuse)
+* Lines (parallel, perpendicular)
+* Symmetry
+
+### Measurement
+
+* Perimeter, area (square, rectangle)
+* Length, weight, capacity conversions
+
+### Time
+
+* 24-hour clock
+* Duration of time
+
+### Money
+
+* Bigger transactions
+* Word problems
+
+### Data Handling
+
+* Bar graphs, data interpretation
+
+### Patterns
+
+* Number and design patterns
+* Magic squares
+
+---
+
+## Grade 5
+
+### Large Numbers
+
+* Up to 10 lakh
+* Indian and international system
+
+### Addition and Subtraction
+
+* Mixed operations, word problems
+
+### Multiplication
+
+* Larger numbers (4-5 digits)
+* Word problems
+
+### Division
+
+* Large numbers by 2-digit divisors
+* Word problems
+
+### Factors and Multiples
+
+* HCF, LCM
+* Prime factorisation
+
+### Fractions
+
+* Addition, subtraction, multiplication
+* Equivalent and unlike fractions
+
+### Decimals
+
+* Place value up to thousandths
+* Add, subtract decimals
+
+### Percentages (Introduction)
+
+* Simple conversion to percentage
+
+### Geometry
+
+* Circle: radius, diameter
+* Types of angles, polygons
+* Nets of solids
+
+### Measurement
+
+* Perimeter, area (triangle, rectangle)
+* Volume (cube, cuboid)
+
+### Time
+
+* Time intervals, advanced word problems
+
+### Money
+
+* Profit, loss (introduction)
+* Advanced transactions
+
+### Data Handling
+
+* Double bar graphs, pie charts
+
+### Patterns
+
+* Complex number patterns
+* Tessellations
+
+---
+English
+
+## Grade 1 – English (Marigold)
+
+### A Happy Child
+
+* Why does the child say they are happy?
+* What does the child do under the tree?
+
+### Three Little Pigs
+
+* What did the first pig make his house with?
+* Who blew down the pigs’ houses?
+
+### After a Bath
+
+* What does the child do after a bath?
+* Name two body parts mentioned in the poem.
+
+### The Bubble, the Straw and the Shoe
+
+* What happened when they tried to cross the river?
+* Who was in the story?
+
+### One Little Kitten
+
+* Name two animals from the poem.
+* What is the kitten doing in the poem?
+
+### Lalu and Peelu
+
+* What did Lalu like to eat?
+* Who saved Lalu?
+
+### Once I Saw a Little Bird
+
+* Where did the bird sit?
+* What did the bird do when the child went near?
+
+### Mittu and the Yellow Mango
+
+* What did Mittu see on the tree?
+* How did Mittu get the mango?
+
+### Merry-Go-Round
+
+* What did the child see at the fair?
+* How did the child feel on the merry-go-round?
+
+### Circle
+
+* What game were the girls playing?
+* Who joined the circle?
+
+### If I Were an Apple
+
+* Where did the apple hang?
+* What would the apple do if it were free?
+
+### Our Tree
+
+* What did the children plant?
+* What grew on the tree?
+
+### A Kite
+
+* Where does the kite fly?
+* What happens when the kite gets cut?
+
+### Sundari
+
+* What was Sundari?
+* Why couldn’t Sundari fly at first?
+
+---
+
+## Grade 2 – English (Marigold)
+
+### First Day at School
+
+* How did the child feel on the first day at school?
+* What did the child wonder about?
+
+### Haldi’s Adventure
+
+* Who did Haldi meet?
+* Why was Haldi surprised?
+
+### I Am Lucky
+
+* What does the child feel lucky about?
+* Name two animals mentioned in the poem.
+
+### I Want
+
+* What did the monkey want to be?
+* Did the monkey become happy at the end?
+
+### A Smile
+
+* What does the poem say about a smile?
+* How can a smile spread happiness?
+
+### The Wind and the Sun
+
+* Who was stronger, the wind or the sun?
+* What did the man do at the end?
+
+### Rain
+
+* What falls from the sky in the poem?
+* What does the child like to do in rain?
+
+### Storm in the Garden
+
+* What happened during the storm?
+* Where did the snail hide?
+
+### Zoo Manners
+
+* How should we behave in the zoo?
+* Name two animals from the poem.
+
+### Funny Bunny
+
+* What did Funny Bunny think?
+* Who ate Funny Bunny at the end?
+
+### Mr. Nobody
+
+* Who breaks things according to the poem?
+* What kind of work does Mr. Nobody do?
+
+### Curlylocks and the Three Bears
+
+* What did Curlylocks find in the forest?
+* What happened when the bears came home?
+
+### On My Blackboard I Can Draw
+
+* What can the child draw on the blackboard?
+* What colour is the blackboard?
+
+### Make It Shorter
+
+* What was the problem in the story?
+* How did Birbal solve the problem?
+
+---
+
+## Grade 3 – English (Marigold)
+
+### Good Morning
+
+* Who does the child wish good morning to?
+* What does the child see in the morning?
+
+### The Magic Garden
+
+* What grew in the magic garden?
+* Who were the magic garden’s friends?
+
+### Bird Talk
+
+* What do the birds talk about?
+* What do the birds think about people?
+
+### Nina and the Baby Sparrows
+
+* Why was Nina worried?
+* What did Nina’s mother suggest?
+
+### Little by Little
+
+* What is the poem about?
+* What happens to the tiny plant?
+
+### The Enormous Turnip
+
+* Who pulled the turnip first?
+* How was the turnip finally pulled out?
+
+### Sea Song
+
+* What did the boy find?
+* What sound did the shell make?
+
+### A Little Fish Story
+
+* Why was the little fish unhappy?
+* How did the fish feel at the end?
+
+### The Balloon Man
+
+* What colours were the balloons?
+* Where did the Balloon Man go?
+
+### The Yellow Butterfly
+
+* Where did the butterfly get caught?
+* How was it set free?
+
+---
+
+## Grade 4 – English (Marigold)
+
+### Wake Up
+
+* What should we do in the morning?
+* What does the poem say about birds?
+
+### Neha’s Alarm Clock
+
+* What woke Neha up?
+* What did Neha want to do?
+
+### Noses
+
+* What does the poet say about the nose?
+* Why does the poet find it funny?
+
+### The Little Fir Tree
+
+* What did the fir tree wish for?
+* What happened to the tree in the end?
+
+### Run
+
+* Where does the poem say we should run?
+* How does running make us feel?
+
+### Nasruddin’s Aim
+
+* What did Nasruddin claim?
+* How did the people react to Nasruddin’s aim?
+
+### Why
+
+* What does the child keep asking?
+* Why do you think questions are important?
+
+### Alice in Wonderland
+
+* What did Alice see?
+* How did Alice feel?
+
+### Don’t Be Afraid of the Dark
+
+* What does the poem say about night?
+* Why should we not fear the dark?
+
+### Helen Keller
+
+* Why is Helen Keller famous?
+* How did Helen learn to communicate?
+
+---
+
+## Grade 5 – English (Marigold)
+
+### Ice-cream Man
+
+* What happens when the Ice-cream Man comes?
+* What does the poem say about summer?
+
+### Wonderful Waste
+
+* What was made from waste?
+* What does the story teach us?
+
+### Teamwork
+
+* What is the importance of teamwork?
+* How does teamwork help us?
+
+### Flying Together
+
+* Why did the geese get into trouble?
+* How did the geese escape?
+
+### My Shadow
+
+* What does the poem say about the shadow?
+* How does the shadow behave?
+
+### Robinson Crusoe Discovers a Footprint
+
+* What did Robinson Crusoe see on the sand?
+* How did he feel after seeing the footprint?
+
+### Crying
+
+* Why does the poet say crying is good?
+* What happens after a good cry?
+
+### My Elder Brother
+
+* What lesson does the elder brother give?
+* How does the younger brother feel?
+
+### The Lazy Frog
+
+* What does the frog do all day?
+* How does the frog avoid work?
+
+### Rip Van Winkle
+
+* What happened to Rip after his sleep?
+* How did the village change?
+
+---
+
+If you'd like this as a clean PDF, table format, or editable document, just let me know!
